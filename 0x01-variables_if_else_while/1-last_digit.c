@@ -1,13 +1,12 @@
 #include <stdlib.h>
-#include <stdio.h>
 #include <time.h>
+#include <stdio.h>
 /**
- * more headers goes there
- *  
-
+ * main - if the last digit of a random number is
+ * greater than or less than 5
 (*
-betty style doc for function main goes there
-*/
+ * Return: 0 with  success
+ */
 int main(void)
 {
 	int n;
