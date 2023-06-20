@@ -5,11 +5,15 @@
  * Return: Always 0
  */
 
-void main()
+int main(void)
 
 {
 
-	_putchar('_putchar\n');
-	return;
+	_putchar('_p');
+	_putchar('ut');
+	_putchar('ch');
+	_putchar('ar');
+	_putchar('\n');
+	return(0);
 
 }
