@@ -1,11 +1,9 @@
 #include "main.h"
 #include <stdio.h>
-
-	/**
-	 * main - print _putchar
-	 * is written by marouane
-	 * Return: 0
-	 */
+/**
+ * main -  prints _putchar, followed by a new line
+ * Return: Always 0 (Success)
+ */
 
 
 	int main(void)
